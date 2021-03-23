@@ -1,6 +1,13 @@
 Files: 
+Sounds:
 https://freesound.org/people/DWOBoyle/sounds/144262/
 https://freesound.org/people/pfranzen/sounds/393745/
 https://freesound.org/people/SuGu14/sounds/78262/
 Type of license: CC BY
 Link on license: https://creativecommons.org/licenses/by/3.0/
+
+Effects:
+1) эффект молнии PNG разработан 588ku, из Pngtree.com
+https://ru.pngtree.com/so/эффект-молнии эффект молнии png из ru.pngtree.com
+2) эффект молнии PNG разработан 588ku, из Pngtree.com
+https://ru.pngtree.com/so/желтый желтый png из ru.pngtree.com
